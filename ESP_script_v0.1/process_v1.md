@@ -23,3 +23,8 @@
 3. tank
 4. water out
 5. milk out
+
+## Pump
+1. boil
+2. cooler
+3. tank
